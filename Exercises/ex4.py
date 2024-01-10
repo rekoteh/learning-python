@@ -1,0 +1,5 @@
+phrase = input ('Write a phrase:')
+print(phrase.isupper())
+phrase = input('Write a something:')
+print(phrase.isalnum())
+print(type(phrase))

@@ -1,0 +1,8 @@
+name = input('Hello, what is your name?')
+print('Nice to meet you, {}!'.format(name))
+print('Welcome to library!')
+print('What genre of book are you looking for?')
+print('I want the crime fiction!')
+print('Where can I find these books?')
+print('In the 4 hallway on left.')
+print('Thank you!')
